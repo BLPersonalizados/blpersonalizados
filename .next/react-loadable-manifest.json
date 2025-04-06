@@ -5,6 +5,13 @@
       "static/chunks/_app-pages-browser_node_modules_react-responsive-carousel_lib_js_index_js.js"
     ]
   },
+  "app\\page.tsx -> react-responsive-carousel/lib/styles/carousel.min.css": {
+    "id": "app\\page.tsx -> react-responsive-carousel/lib/styles/carousel.min.css",
+    "files": [
+      "static/css/_app-pages-browser_node_modules_react-responsive-carousel_lib_styles_carousel_min_css.css",
+      "static/chunks/_app-pages-browser_node_modules_react-responsive-carousel_lib_styles_carousel_min_css.js"
+    ]
+  },
   "app\\produtos\\page.tsx -> react-responsive-carousel": {
     "id": "app\\produtos\\page.tsx -> react-responsive-carousel",
     "files": [
