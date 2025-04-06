@@ -1,0 +1,27 @@
+{
+  "app\\page.tsx -> react-responsive-carousel": {
+    "id": "app\\page.tsx -> react-responsive-carousel",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_react-responsive-carousel_lib_js_index_js.js"
+    ]
+  },
+  "app\\produtos\\page.tsx -> react-responsive-carousel": {
+    "id": "app\\produtos\\page.tsx -> react-responsive-carousel",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_react-responsive-carousel_lib_js_index_js.js"
+    ]
+  },
+  "app\\produtos\\page.tsx -> react-responsive-carousel/lib/styles/carousel.min.css": {
+    "id": "app\\produtos\\page.tsx -> react-responsive-carousel/lib/styles/carousel.min.css",
+    "files": [
+      "static/css/_app-pages-browser_node_modules_react-responsive-carousel_lib_styles_carousel_min_css.css",
+      "static/chunks/_app-pages-browser_node_modules_react-responsive-carousel_lib_styles_carousel_min_css.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "node_modules\\next\\dist\\client\\components\\react-dev-overlay\\utils\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js"
+    ]
+  }
+}
